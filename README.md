@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@abhay007](https://hashnode.com/@abhay007)
 
-- 📫 How to reach me **ap3919529@gmail.com**
+- 📫 How to reach me **abhaybpatil98@gmail.com**
 
 - ⚡ Fun fact **I am a sketcher and Handball player**
 
