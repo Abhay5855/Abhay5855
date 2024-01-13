@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Patil</h1>
-<h3 align="center">A passionate frontend developer from India and working on projects with react js and firebase as a backend.</h3>
+<h3 align="center">A passionate frontend developer from India open to work on any technology</h3>
 
 - 🌱 I’m currently learning **Mongodb, Express, Node and Redux**
 
